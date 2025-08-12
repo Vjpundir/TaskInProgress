@@ -4,7 +4,7 @@ public class ReverseStringDemo {
 
 	public static void main(String[] args) {
 
-		String str = "Vijay Pundir";
+		String str = "VijayPundir";
 
 		String reverse = "";
 
