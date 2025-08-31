@@ -9,7 +9,7 @@ public class ArrayMerge {
 
 	public static void main(String[] args) {
 
-Integer[] a =  {2,3,5};
+Integer[]  a = {2,3,5};
 Integer [] b = {5,7,8,1,2};
 
 
